@@ -46,7 +46,7 @@ The objective of this project was to build a unified recruitment analytics dashb
 <img width="1298" height="736" alt="image" src="https://github.com/user-attachments/assets/df6cde41-6bdf-4cd9-b84d-0c8984a767a7" />
 <img width="1313" height="747" alt="image" src="https://github.com/user-attachments/assets/62b26847-72d3-4664-b26e-b39659ad7ad5" />
 <img width="1258" height="728" alt="image" src="https://github.com/user-attachments/assets/8408a949-09f0-4108-89a7-e4fb36b7000c" />
-<img width="626" height="359" alt="image" src="https://github.com/user-attachments/assets/888d3a1d-1747-404b-a2d0-1d7d2cc25a3a" />
+<img width="1258" height="728" alt="image" src="https://github.com/user-attachments/assets/888d3a1d-1747-404b-a2d0-1d7d2cc25a3a" />
 
 
 ## Tools & Skills Used
